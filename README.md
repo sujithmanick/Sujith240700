@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @Sujith240700
+- 👋 Hi, I’m Sujith
 - 👀 I’m interested in UI & UX Design
 - 🌱 I’m currently Working
 - 💞️ I’m looking to collaborate on ...
