@@ -1,7 +1,7 @@
 - 👋 Hi, I’m Sujith
-- 👀 I’m interested in UI & UX Design
+- 👀 I’m interested in Python Dev
 - 🌱 I’m currently Working
-- 💞️ I’m looking to collaborate on ...
+- 💞️ I’m looking to collaborate on ...Rest API, Flask, Django Projects
 - 📫 How to reach me ... Sujithmanick@gmail.com
 
 <!---
